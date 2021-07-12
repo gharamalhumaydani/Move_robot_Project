@@ -103,6 +103,9 @@ $ export TURTLEBOT3_MODEL=burger
 
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
+![2021-07-12 (4)](https://user-images.githubusercontent.com/86461558/125238577-16f33c80-e2f0-11eb-8950-f314706da75f.png)
+
+
 -Run Teleoperation Node
 
 $ export TURTLEBOT3_MODEL=burger
