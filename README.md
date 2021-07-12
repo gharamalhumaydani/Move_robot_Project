@@ -106,6 +106,10 @@ $ export TURTLEBOT3_MODEL=burger
 
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
+
+![Screenshot from 2021-07-11 01-46-10](https://user-images.githubusercontent.com/86461558/125237425-5882e800-e2ee-11eb-8beb-0c4d889022c8.png)
+
+
 -Save Map
 
 $ rosrun map_server map_saver -f /map
