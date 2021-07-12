@@ -84,6 +84,9 @@ $ export TURTLEBOT3_MODEL=waffle_pi
 
 $ roslaunch turtlebot3_gazebo turtlebot3_house.launch
 
+![2021-07-12 (1)](https://user-images.githubusercontent.com/86461558/125237779-ebbc1d80-e2ee-11eb-9748-846d032fdf43.png)
+
+
 SLAM Simulation
 
 -Launch Simulation World
