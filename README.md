@@ -1,6 +1,6 @@
 Move_robot_Project
 
-This project simulates the way a robot works discovers its environment in Gazebo while creating it as a map using SLAM .This is done using Ros in ubuntu 16.04. and with robots from Turtlebot (https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
+This project simulates the way a robot works discovers its environment in Gazebo while creating it as a map using SLAM .This is done using Ros in ubuntu 16.04. and with robots from Turtlebot3 (https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
 
 1-Quick Start Guide..
 
